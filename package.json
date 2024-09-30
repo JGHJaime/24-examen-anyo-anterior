@@ -2,9 +2,9 @@
   "name": "24-examen-anyo-anterior",
   "version": "1.0.0",
   "description": "POO",
-  "main": "node cotizacion.js",
+  "main": "cotizacion.js",
   "scripts": {
-    "start": "node.cotizacion.js",
+    "start": "node cotizacion.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
